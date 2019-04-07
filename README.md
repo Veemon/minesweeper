@@ -40,7 +40,7 @@ The below includes snippets from the report that I thought might be nice for exp
 ----
 
 ## Preface
-Due to the relative size of each program, a singular file was used in each case, thus client code can be found in client.c, and server code likewise in server.c. Common code and definitions across programs can be found in common.h. All basic types used in both programs are macros and are defined in type.h. These type macros are:
+Due to the relative size of each program, a singular file was used in each case, thus client code can be found in [client.c](src/client.c), and server code likewise in [server.c](src/server.c). Common code and definitions across programs can be found in common.h. All basic types used in both programs are macros and are defined in [type.h](src/type.h). These type macros are:
 
 ```c
 #define u8      uint8_t
