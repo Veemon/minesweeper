@@ -1,6 +1,9 @@
 # Online Multithreaded Minesweeper
 
-<div style="text-align:center"><img src ="res/showcase.gif" /></div>
+<br>
+<p align="center">
+  <img src=res/showcase.gif/>
+</p>
 
 ## How To Run
 Building
@@ -53,7 +56,10 @@ Due to the relative size of each program, a singular file was used in each case,
 ```
 
 ## Program Design
-<div style="text-align:center"><img src ="res/arch.png" /></div>
+<br>
+<p align="center">
+  <img src=res/arch.png/>
+</p>
 
 ### Client
 
